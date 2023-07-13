@@ -92,7 +92,7 @@ def get_data_from_web():
     df = df.dropna()
     return df
 
-st.set_page_config(page_title="Víno Mukulčík", layout="wide", initial_sidebar_state="expanded")
+st.set_page_config(page_title="Víno Mikulčík", layout="wide", initial_sidebar_state="expanded")
 st.markdown("""
         <style>
             .block-container  {padding-top: 10px;}
