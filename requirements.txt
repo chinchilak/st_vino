@@ -1,9 +1,8 @@
-beautifulsoup4==4.12.2
-google_api_python_client==2.93.0
-google_auth_oauthlib==1.0.0
-numpy==1.25.1
-pandas==2.0.3
-protobuf==3.20.3
-PyYAML==6.0
-Requests==2.31.0
-streamlit==1.24.1
+beautifulsoup4
+google_api_python_client
+google_auth_oauthlib
+numpy
+pandas
+protobuf
+Requests
+streamlit
