@@ -6,3 +6,4 @@ pandas
 protobuf
 Requests
 streamlit
+lxml
